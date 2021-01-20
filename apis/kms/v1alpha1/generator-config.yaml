@@ -1,0 +1,6 @@
+ignore:
+  resource_names:
+  - CustomKeyStore
+  - Grant
+  field_paths:
+  - CreateAliasInput.TargetKeyId
